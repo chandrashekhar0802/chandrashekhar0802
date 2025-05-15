@@ -5,14 +5,14 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 - 🌱 I’m always eager to learn new skills and technologies in software development.
 - 📂 All of my projects are available at [My GitHub Repositories](https://github.com/chandrashekhar080?tab=repositories).
 - 💬 Ask me about **Full Stack Web Development, Frontend Tools,Backend Tools and Problem Solving**.
-- 📫 How to reach me: chandrashekhar080@gmail.com
+- 📫 How to reach me: chandrashekhar@webisdom.com
 - ⚡ Fun fact: I enjoy coding and collaborating on innovative projects.
 
 ---
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/)
-[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/chandrashekhar080/)
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/chandrashekhar0802/)
 [![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/0810chandrashek1)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/_chandrashekhar_08/)
 [![GeekforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/0810chandrbric/)
@@ -35,8 +35,8 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 ---
 
 ## 📊 GitHub Stats:
-![Chandrashekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekhar080&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekhar080&layout=compact&theme=radical)
+![Chandrashekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekhar0802&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekhar0802&layout=compact&theme=radical)
 
 ---
 
@@ -58,6 +58,7 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 ## 📂 Featured Projects:
 - [Portfolio Website](https://chandrashekhar080.github.io/WebsitePortfoliocs/): Showcasing my work and skills.
 - [Dictionary App](https://github.com/chandrashekhar080/React_Dictionary_App): Building sustainable solutions using modern web technologies.
+- [PortFolio website](https://chandrashekhar080.github.io/WebsitePortfoliocs/) :Showcasing my work an skill's.
 
 ---
 
